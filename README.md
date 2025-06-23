@@ -1,1 +1,1 @@
-# proyecto_fundamentos_de_rogramaci-n2_sistema_de_gestion_de_tickets
+#proyecto_fundamentos_de_programacion2_sistema_de_gestion_de_tickets
